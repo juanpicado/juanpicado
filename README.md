@@ -33,7 +33,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 ### Talks
 
-You can enjoy my talks, mostly abour Verdaccio which is my passion 🥰.
+You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
 * [ *Cover your Projects with a Multi purpose Lightweight Node.js Registry*](https://www.youtube.com/watch?v=oVCjDWeehAQ)
 * [ViennaJS Meetup - Introduction to Verdaccio by **Priscila Olivera** and **Juan Picado**](https://www.youtube.com/watch?v=hDIFKzmoCa)
