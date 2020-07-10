@@ -1,53 +1,43 @@
-### Hi there 👋
+
+Hey ! I'm Juan 🤓 and this is my profile. I'm Senior Software Engineer mostly focused in Front-End in my work at **eBay** in the team that builds [*Kijiji Autos*](https://www.kijijiautos.ca/) which I joined in 2019 and is **awesome**. I'm from Spain 🇪🇸 but living in Berlin 🇩🇪.
+
+I like **React** and **Typescript**, in my spare time I like to keep learning about Node.js while doing Open Source.
+
+I'm trying to learn new things (when I have time), as *Rust*, *WebAssembly* or *Machine Learning* with Javascript.
 
 
-Hey ! I'm Juan 🤓 and this is my profile.
-
-
-##  🔭 I’m currently working on
+###  My Work
 
 ![verdaccio](https://cdn.verdaccio.dev/readme/verdaccio@2x.png)
 
-If you have used Verdaccio before, I'm behind of it most of the time. 
+I've been contributing to Verdaccio since **2017**. I started fixing a broken test, then few more and somehow rewriting part of the project. Verdaccio was a fork of [*sinopia*](https://github.com/rlidwka/sinopia) which still share part of the architecture and ideas.
 
-## 📫 How to reach me
+I've improved the plugin system adding the **Storage API** that allows create [storage plugins](https://github.com/verdaccio/monorepo/tree/9.x/plugins) and take the registry to the cloud. I've created few plugins as memory plugins for fast usage on CI tools, Google Cloud and *npm audit* support.
+
+I also contributed on the official [Kubernetes Chart](https://github.com/verdaccio/charts) for Helm, the [plugin generator](https://github.com/verdaccio/generator-verdaccio-plugin) and the [Web User Interface](https://github.com/verdaccio/ui).
+
+Furthermore, higly involved in a **big refactoring of Verdaccio (5.x)** while I maintain the current releases. 
+
+I'm taking care of the releases, advocate usage and **helping the community to gain ownership of their own Node.js Private Registry**.
+
+I do contribute other projects when I have little bit of time, but I'm mostly focused on Verdaccio 99% of my spare time. 
+
+### How to reach me
+
+I'm easy to reach out, you can follow me on Twitter or also you can find me in the Verdaccio community chat. 
 
 - [@jotadeveloper](https://twitter.com/jotadeveloper)
-- [Discord](http://chat.verdaccio.org)
+- [Verdaccio Chat](http://chat.verdaccio.org)
+- [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
 
-## 💬 Ask me about
 
-- Verdaccio
-- Traveling 
-- Soccer (I'm Real Madrid Fan 😉)
+### Talks
 
-## ⚡ Fun fact
+You can enjoy my talks, mostly abour Verdaccio which is my passion 🥰.
 
-* I'm Front-End full time, I just do Node.js for fun
+* [ *Cover your Projects with a Multi purpose Lightweight Node.js Registry*](https://www.youtube.com/watch?v=oVCjDWeehAQ)
+* [ViennaJS Meetup - Introduction to Verdaccio by **Priscila Olivera** and **Juan Picado**](https://www.youtube.com/watch?v=hDIFKzmoCa)
+* [Open Source? trivago - Verdaccio (**Ayush** and **Juan Picado**) January 2020](https://www.youtube.com/watch?v=A5CWxJC9xzc)
+* [GitNation Open Source Stage - How we have built a Node.js Registry with React - **Juan Picado** December 2019](https://www.youtube.com/watch?v=gpjC8Qp9B9A)
 
-## I’m currently learning 
-
-- Node.js
-- Rust 
-- Machine Learning with Javascript
-- How to build a IKEA kitchen 
-
-## Talks
-
-I speak mostly about Verdaccio, if you want to see my talks, here is the last one.
-
-[![yt](https://cdn.verdaccio.dev/readme/youtube_openjsword_2020.png)](https://www.youtube.com/watch?v=oVCjDWeehAQ)
-
-<!--
-**juanpicado/juanpicado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see more of my contributions here 👇🏼
