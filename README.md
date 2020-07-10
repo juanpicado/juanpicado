@@ -18,7 +18,7 @@ I also contributed on the official [Kubernetes Chart](https://github.com/verdacc
 
 Furthermore, higly involved in a **big refactoring of Verdaccio (5.x)** while I maintain the current releases. 
 
-I'm taking care of the releases, advocate usage and **helping the community to gain ownership of their own Node.js Private Registry**.
+I like to advocate about good practices using private registries and **helping the community to gain ownership of their own Node.js Private Registry**.
 
 I do contribute other projects when I have little bit of time, but I'm mostly focused on Verdaccio 99% of my spare time. 
 
