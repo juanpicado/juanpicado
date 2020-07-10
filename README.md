@@ -1,9 +1,9 @@
 
 Hey ! I'm Juan 🤓 and this is my profile. I'm Senior Software Engineer mostly focused in Front-End in my work at **eBay** in the team that builds [*Kijiji Autos*](https://www.kijijiautos.ca/) which I joined in 2019 and is **awesome**. I'm from Spain 🇪🇸 but living in Berlin 🇩🇪.
 
-I like **React** and **Typescript**, in my spare time I like to keep learning about Node.js while doing Open Source.
+I like **Javascript** **React** and **Typescript**, in my spare time I like to keep learning about **Node.js** while doing Open Source. Everything that has Javascript in the recipe is interesting to me.
 
-I'm trying to learn new things (when I have time), as *Rust*, *WebAssembly* or *Machine Learning* with Javascript.
+Furthermore, I'm trying to learn new things (when I have time), as *Rust*, *WebAssembly* or *Machine Learning* with Javascript.
 
 
 ###  My Work
