@@ -35,7 +35,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
-* [ *Cover your Projects with a Multi purpose Lightweight Node.js Registry*](https://www.youtube.com/watch?v=oVCjDWeehAQ)
+* [ *Cover your Projects with a Multi purpose Lightweight Node.js Registry* OpenJS World 2020](https://www.youtube.com/watch?v=oVCjDWeehAQ)
 * [ViennaJS Meetup - Introduction to Verdaccio by **Priscila Olivera** and **Juan Picado**](https://www.youtube.com/watch?v=hDIFKzmoCa)
 * [Open Source? trivago - Verdaccio (**Ayush** and **Juan Picado**) January 2020](https://www.youtube.com/watch?v=A5CWxJC9xzc)
 * [GitNation Open Source Stage - How we have built a Node.js Registry with React - **Juan Picado** December 2019](https://www.youtube.com/watch?v=gpjC8Qp9B9A)
