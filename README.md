@@ -10,6 +10,8 @@ Furthermore, I'm trying to learn new things (when I have time), as *Rust*, *WebA
 
 ![verdaccio](https://cdn.verdaccio.dev/readme/verdaccio@2x.png)
 
+![downloads](https://dockeri.co/image/verdaccio/verdaccio)
+
 I've been contributing to Verdaccio since **2017**. I started fixing a broken test, then few more and somehow rewriting part of the project. Verdaccio was a fork of [*sinopia*](https://github.com/rlidwka/sinopia) which still share part of the architecture and ideas.
 
 I've improved the plugin system adding the **Storage API** that allows create [storage plugins](https://github.com/verdaccio/monorepo/tree/9.x/plugins) and take the registry to the cloud. I've created few plugins as memory plugins for fast usage on CI tools, Google Cloud and *npm audit* support.
