@@ -37,6 +37,8 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
+* [Protecting my Node.js project of dependency confusion attacks](https://www.youtube.com/watch?v=qTRADSp3Hpo&ab_channel=DevSecCon-)
+* [Verdaccio - A lightweight Private Proxy Registry built in Node.js | Juan Picado](https://www.youtube.com/watch?v=P_hxy7W-IL4&t=1003s&ab_channel=TheDestroDevShow)
 * [ *Cover your Projects with a Multi purpose Lightweight Node.js Registry* OpenJS World 2020](https://www.youtube.com/watch?v=oVCjDWeehAQ)
 * [ViennaJS Meetup - Introduction to Verdaccio by **Priscila Olivera** and **Juan Picado**](https://www.youtube.com/watch?v=hDIFKzmoCa)
 * [Open Source? trivago - Verdaccio (**Ayush** and **Juan Picado**) January 2020](https://www.youtube.com/watch?v=A5CWxJC9xzc)
