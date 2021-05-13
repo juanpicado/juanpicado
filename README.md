@@ -18,7 +18,7 @@ I've improved the plugin system adding the **Storage API** that allows create [s
 
 I also contributed on the official [Kubernetes Chart](https://github.com/verdaccio/charts) for Helm, the [plugin generator](https://github.com/verdaccio/generator-verdaccio-plugin) and the [Web User Interface](https://github.com/verdaccio/ui).
 
-Furthermore, higly involved in a **big refactoring of Verdaccio (5.x)** while I maintain the current releases. 
+Furthermore, higly involved in a **big refactoring of Verdaccio (6.x)** while I maintain the current releases. 
 
 I like to advocate about good practices using private registries and **helping the community to gain ownership of their own Node.js Private Registry**.
 
