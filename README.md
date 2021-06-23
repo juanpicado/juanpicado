@@ -1,5 +1,5 @@
 
-Hey ! I'm Juan 🤓 and this is my profile. I'm Senior Software Engineer mostly focused in Front-End in my work at **eBay** in the team that builds [*Kijiji Autos*](https://www.kijijiautos.ca/) which I joined in 2019 and is **awesome**. I'm from Spain 🇪🇸 but living in Berlin 🇩🇪.
+Hey ! I'm Juan 🤓 and this is my profile. I'm Senior Software Engineer mostly focused in Front-End in my work at **eBay Classifieds Group** (_Adevinta_ as 25th June 2021) in the team that builds [*Kijiji Autos*](https://www.kijijiautos.ca/) which I joined in 2019 and is **awesome**. I'm from Spain 🇪🇸 but living in Berlin 🇩🇪.
 
 I like **Javascript**, **React** and **Typescript**, in my spare time I like to keep coding **Node.js** while doing Open Source. Everything that has Javascript in the recipe is interesting to me.
 
@@ -33,6 +33,8 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 ### Talks
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
+
+* [Verdaccio, un registro Node.js para tus proyectos de JavaScript 🇪🇸 | BeerJS Cba 53 Meetup 2021 | **Juan Picado**](https://www.youtube.com/watch?v=6SyjqBmS49Y)
 
 * [Protecting my Node.js project of dependency confusion attacks | DevSecCon 2021 | **Juan Picado**](https://www.youtube.com/watch?v=qTRADSp3Hpo&ab_channel=DevSecCon-)
 * [Verdaccio - A lightweight Private Proxy Registry built in Node.js | TheDestroDevShow 2021 | **Juan Picado**](https://www.youtube.com/watch?v=P_hxy7W-IL4&t=1003s&ab_channel=TheDestroDevShow)
