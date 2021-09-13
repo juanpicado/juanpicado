@@ -24,7 +24,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
-* [Testing the integrity of your React components by publishing in a private registry - React Finland 2021 | **Juan Picado**](https://www.youtube.com/watch?v=5olfi5wbgF4)
+* [Testing the integrity of your React components by publishing in a private registry - React Finland 2021 | **Juan Picado**](https://www.youtube.com/watch?v=bRKZbrlQqLY&t=16s&ab_channel=ReactFinland)
 * [Verdaccio, un registro Node.js para tus proyectos de JavaScript 🇪🇸 | BeerJS Cba 53 Meetup 2021 | **Juan Picado**](https://www.youtube.com/watch?v=6SyjqBmS49Y)
 
 * [Protecting my Node.js project of dependency confusion attacks | DevSecCon 2021 | **Juan Picado**](https://www.youtube.com/watch?v=qTRADSp3Hpo&ab_channel=DevSecCon-)
