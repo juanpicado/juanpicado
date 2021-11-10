@@ -18,6 +18,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 - [@jotadeveloper](https://twitter.com/jotadeveloper)
 - [Verdaccio Chat](http://chat.verdaccio.org)
 - [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
+- [Mail](mailto:juanpicado19@gmail.com)
 
 
 ### Talks
