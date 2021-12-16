@@ -25,7 +25,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
-[docker](https://cdn.verdaccio.dev/readme/docker-all-hands-jpicado-talk.jpg)](https://www.youtube.com/watch?v=zRI0skF1f8I)
+[![docker](https://cdn.verdaccio.dev/readme/docker-all-hands-jpicado-talk.jpg)](https://www.youtube.com/watch?v=zRI0skF1f8I)
 
 * [Testing the integrity of your React components by publishing in a private registry - React Finland 2021 | **Juan Picado**](https://www.youtube.com/watch?v=bRKZbrlQqLY&t=16s&ab_channel=ReactFinland)
 * [Verdaccio, un registro Node.js para tus proyectos de JavaScript 🇪🇸 | BeerJS Cba 53 Meetup 2021 | **Juan Picado**](https://www.youtube.com/watch?v=6SyjqBmS49Y)
