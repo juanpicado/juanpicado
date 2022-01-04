@@ -16,16 +16,30 @@ I've been contributing to Verdaccio since **2017**.  I like to advocate about go
 I'm easy to reach out, you can follow me on Twitter or also you can find me in the Verdaccio community chat. 
 
 - [@jotadeveloper](https://twitter.com/jotadeveloper)
-- [Verdaccio Chat](http://chat.verdaccio.org)
+- [Verdaccio Discord](https://discord.gg/7qWJxBf)
 - [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
 - [Mail](mailto:juanpicado19@gmail.com)
 
+### Next Talk
 
-### Talks
+My next talk would be in February 2022 about Verdaccio and what's next.
+
+<div>
+<a href="https://nodecongress.com/">
+   <img src="https://cdn.verdaccio.dev/readme/nodejscongress2022.jpg" alt="nodejs" width="500"/>
+</a>
+</div> 
+
+
+### Past Talks
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
-[![docker](https://cdn.verdaccio.dev/readme/docker-all-hands-jpicado-talk.jpg)](https://www.youtube.com/watch?v=zRI0skF1f8I)
+<div>
+<a href="https://www.youtube.com/watch?v=zRI0skF1f8I">
+   <img src="https://cdn.verdaccio.dev/readme/docker-all-hands-jpicado-talk.jpg" alt="dockerallhands" width="400"/>
+</a>
+</div> 
 
 * [Testing the integrity of your React components by publishing in a private registry - React Finland 2021 | **Juan Picado**](https://www.youtube.com/watch?v=bRKZbrlQqLY&t=16s&ab_channel=ReactFinland)
 * [Verdaccio, un registro Node.js para tus proyectos de JavaScript 🇪🇸 | BeerJS Cba 53 Meetup 2021 | **Juan Picado**](https://www.youtube.com/watch?v=6SyjqBmS49Y)
