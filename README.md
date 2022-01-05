@@ -22,7 +22,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 ### Next Talk
 
-My next talk would be in February 2022 about Verdaccio and what's next.
+My next talk will be in February 2022 about Verdaccio and what's next.
 
 <div>
 <a href="https://nodecongress.com/">
