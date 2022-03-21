@@ -25,7 +25,7 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 My next talk will be in February 2022 about Verdaccio and what's next.
 
 <div>
-<a href="https://nodecongress.com/">
+<a href="https://portal.gitnation.org/contents/five-ways-of-taking-advantage-of-verdaccio-your-private-and-proxy-nodejs-registry">
    <img src="https://cdn.verdaccio.dev/readme/nodejscongress2022.jpg" alt="nodejs" width="500"/>
 </a>
 </div> 
