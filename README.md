@@ -20,9 +20,16 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 - [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
 - [Mail](mailto:jotadeveloper@gmail.com)
 
-### Next Talk
+### Next Talks
 
-My next talk will be in June 2022 about Verdaccio and at Tel-Aviv (Israel):
+My next talk will be in:
+
+May 18th **online** at [Global Summit for NODE JS'22](https://events.geekle.us/nodejs/)
+
+![image](https://user-images.githubusercontent.com/558752/167006223-c7ab120a-4022-4abf-97f7-77fea56478f1.png)
+
+
+June 29th 2022 about Verdaccio and at Tel-Aviv (Israel):
 
 **Deep dive into Verdaccio, a lightweight Node.js registry**
 
