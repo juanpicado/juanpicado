@@ -22,20 +22,20 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 
 ### Next Talk
 
-My next talk will be in February 2022 about Verdaccio and what's next.
+My next talk will be in June 2022 about Verdaccio and at Tel-Aviv (Israel):
 
-<div>
-<a href="https://portal.gitnation.org/contents/five-ways-of-taking-advantage-of-verdaccio-your-private-and-proxy-nodejs-registry">
-   <img src="https://cdn.verdaccio.dev/readme/nodejscongress2022.jpg" alt="nodejs" width="500"/>
-</a>
-</div> 
+**Deep dive into Verdaccio, a lightweight Node.js registry**
 
+[![image](https://user-images.githubusercontent.com/558752/167004978-5266f5fa-1215-4767-913d-954a664e44d6.png)](https://www.nodetlv.com/)
 
 ### Past Talks
 
 You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
 <div>
+<a href="https://portal.gitnation.org/contents/five-ways-of-taking-advantage-of-verdaccio-your-private-and-proxy-nodejs-registry">
+   <img src="https://cdn.verdaccio.dev/readme/nodejscongress2022.jpg" alt="nodejs" width="230"/>
+</a>
 <a href="https://www.youtube.com/watch?v=zRI0skF1f8I">
    <img src="https://cdn.verdaccio.dev/readme/docker-all-hands-jpicado-talk.jpg" alt="dockerallhands" width="400"/>
 </a>
