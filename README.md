@@ -29,7 +29,7 @@ May 18th **online** at [Global Summit for NODE JS'22](https://events.geekle.us/n
 [![image](https://user-images.githubusercontent.com/558752/167006223-c7ab120a-4022-4abf-97f7-77fea56478f1.png)](https://geekle.us/schedule/nodejs)
 
 
-June 29th 2022 about Verdaccio and at **Tel-Aviv (Israel)**:
+June 29th 2022 at **Tel-Aviv (Israel)**:
 
 **Deep dive into Verdaccio, a lightweight Node.js registry**
 
