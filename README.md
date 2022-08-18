@@ -20,9 +20,9 @@ I'm easy to reach out, you can follow me on Twitter or also you can find me in t
 - [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
 - [Mail](mailto:jotadeveloper@gmail.com)
 
-### Next Talks
+### Past Talks
 
-My next talk will be in:
+You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
 May 18th **online** at [Global Summit for NODE JS'22](https://events.geekle.us/nodejs/)
 
@@ -33,11 +33,8 @@ June 29th 2022 at **Tel-Aviv (Israel)**:
 
 **Deep dive into Verdaccio, a lightweight Node.js registry**
 
-[![image](https://user-images.githubusercontent.com/558752/167004978-5266f5fa-1215-4767-913d-954a664e44d6.png)](https://www.nodetlv.com/)
+[![image](https://user-images.githubusercontent.com/558752/167004978-5266f5fa-1215-4767-913d-954a664e44d6.png)](https://youtu.be/qRMucS3i3kQ)
 
-### Past Talks
-
-You can enjoy my talks, mostly speaking about Verdaccio which is my passion 🥰.
 
 <div>
 <a href="https://portal.gitnation.org/contents/five-ways-of-taking-advantage-of-verdaccio-your-private-and-proxy-nodejs-registry">
