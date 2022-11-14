@@ -15,7 +15,8 @@ I've been contributing to Verdaccio since **2017**.  I like to advocate about go
 
 I'm easy to reach out, you can follow me on Twitter or also you can find me in the Verdaccio community chat. 
 
-- [@jotadeveloper](https://twitter.com/jotadeveloper)
+- [Twitter @jotadeveloper](https://twitter.com/jotadeveloper)
+- [Fosstodon (Mastodon) @jotadeveloper](https://fosstodon.org/@jotadeveloper) 
 - [Verdaccio Discord](https://discord.gg/7qWJxBf)
 - [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
 - [Mail](mailto:jotadeveloper@gmail.com)
