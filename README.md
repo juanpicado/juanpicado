@@ -7,8 +7,6 @@ I like **Javascript**, **React** and **Typescript**, in my spare time I like to 
 
 ![verdaccio](https://cdn.verdaccio.dev/readme/verdaccio@2x.png)
 
-![downloads](https://dockeri.co/image/verdaccio/verdaccio)
-
 I've been contributing to Verdaccio since **2017**.  I like to advocate about good practices using private registries and **helping the community to gain ownership of their own Node.js Private Registry**.
 
 ### How to reach me
