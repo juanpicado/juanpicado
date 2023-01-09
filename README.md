@@ -9,8 +9,6 @@ I like **Javascript**, **React** and **Typescript**, in my spare time I like to 
 
 I've been contributing to Verdaccio since **2017**.  I like to advocate about good practices using private registries and **helping the community to gain ownership of their own Node.js Private Registry**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qRMucS3i3kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### My Repos
 
 - [verdaccio-fork](https://github.com/juanpicado/verdaccio-fork)
