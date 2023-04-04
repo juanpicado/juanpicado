@@ -1,5 +1,5 @@
 
-Hey ! I'm Juan 🤓 and this is my profile. I'm Staff Software Engineer at [**mobile.de (Adevinta)**](https://www.mobile.de/). 
+Hey ! I'm Juan 🤓 Open Source Contributor, Staff Software Engineer at [**mobile.de (Adevinta)**](https://www.mobile.de/) and this is my profile. 
 
 I like **Javascript**, **React** and **Typescript**, in my spare time I like to keep coding **Node.js** while doing Open Source. Everything that has JavaScript in the recipe is interesting to me.
 
