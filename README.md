@@ -11,9 +11,6 @@ I've been contributing to Verdaccio since **2017**.  I like to advocate about go
 
 ### My Repos
 
-- [verdaccio-fork](https://github.com/juanpicado/verdaccio-fork)
-- [verdaccio benchmark 🚧](https://github.com/juanpicado/benchmark)
-- [yarn-plugin-npm 🚧](https://github.com/juanpicado/yarn-plugin-npm)
 - [e2e-ci-example-gh-actions](https://github.com/juanpicado/e2e-ci-example-gh-actions)
 - [verdaccio-heroku-example](https://github.com/juanpicado/verdaccio-heroku-example)
 - [verdaccio-docker-integration-test](https://github.com/juanpicado/docker-integration-test)
@@ -42,6 +39,6 @@ qRMucS3i3kQ)
 - [Fosstodon (Mastodon) @jotadeveloper](https://fosstodon.org/@jotadeveloper) 
 - [Verdaccio Discord](https://discord.gg/7qWJxBf)
 - [LinkedIn](https://www.linkedin.com/in/jotadeveloper/)
-- [Mail](mailto:jotadeveloper@gmail.com)
+- [Mail](mailto:juanpicado19@gmail.com)
 
 You can see more of my contributions here 👇🏼
